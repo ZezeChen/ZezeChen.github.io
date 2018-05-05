@@ -22,12 +22,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: benniks
 twitter_username: softlysighs
 instagram_username: karmapilot
+
 color_scheme: github
 disqus_shortname: kpilot
-
-navlevel: 2018-05-03-welcome
-navtitle: test1 test2 # optional, specifies the text to display on navigation item
-
+google_analytics: UA-118779575-1
 
 mathjax: true
 
@@ -42,15 +40,11 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
