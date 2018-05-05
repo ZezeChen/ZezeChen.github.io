@@ -23,10 +23,10 @@ github_username: benniks
 twitter_username: softlysighs
 instagram_username: karmapilot
 color_scheme: github
-disqus_shortname: benniks
+disqus_shortname: kpilot
 
-navlevel: header
-navtitle: Awesome Title # optional, specifies the text to display on navigation item
+navlevel: 2018-05-03-welcome
+navtitle: test1 test2 # optional, specifies the text to display on navigation item
 
 
 mathjax: true
@@ -50,3 +50,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
