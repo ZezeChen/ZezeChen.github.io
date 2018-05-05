@@ -22,12 +22,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: benniks
 twitter_username: softlysighs
 instagram_username: karmapilot
-
+comments: false
 color_scheme: github
+
+
+
+comments: false
 disqus_shortname: kpilot
 google_analytics: UA-118779575-1
 
-mathjax: true
+
+
+mathjax: false
 
 
 # Build settings
