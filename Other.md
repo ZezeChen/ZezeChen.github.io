@@ -2,7 +2,7 @@
 layout: post-list
 title: 其他
 lang: en
-cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1fkf9hasvkjj31kw0w04qq
+cover_url: https://ww4.sinaimg.cn/mw1024/82f67cfdgw1f7q24p969fj21kw16onlg.jpg
 cover_meta: >
   Photo by [benniks](https://songf.me)
 position: 3

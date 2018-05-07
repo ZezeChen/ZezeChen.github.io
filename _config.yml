@@ -22,19 +22,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: softlysighs
 instagram_username: karmapilot
-
 color_scheme: github
-
-
-
-comments: false
 google_analytics: UA-79510466-1
-
-
+disqus_shortname: kpilot
 
 mathjax: false
-
-
 # Build settings
 markdown: kramdown
 #theme: minima
