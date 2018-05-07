@@ -4,11 +4,13 @@ pid : 8
 title: "不要乱用白学梗"
 date: 2016-05-09 24:30:53 +0800
 modified: 1463229458
-cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1fkf9hasvkjj31kw0w04qqa15b4afegw1f3qcjavca7j20j60ee41a
 category: nichijou
 author: benniks
 look: 65
 ---
+
+
+![](https://ww2.sinaimg.cn/large/a15b4afegw1f3qcjavca7j20j60ee41a)
 
 >图片和水印来自文文的微博
 

@@ -48,6 +48,7 @@ article {
 
   p {
     hanging-punctuation: allow-end; // no browser supports this rule
+    line-height: 2em;
   }
 
   .aside, .sidenote, .side-note {
@@ -64,6 +65,10 @@ article {
 
   a, a:hover, a:visited {
     border-bottom: 1px dotted currentColor;
+  }
+
+  a:visited {
+    color: #899;
   }
 
   img.half-size, img.retina2x {

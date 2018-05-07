@@ -1,13 +1,13 @@
 ---
 layout: post-list
-title: 日常
+title: 写真
 lang: en
 cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1fkf9hasvkjj31kw0w04qq
 cover_meta: >
   Photo by [benniks](https://songf.me)
-position: 1
+position: 2
 navlevel: header
-navtitle: nichijou
+navtitle: Shashin
 filter:
-  - by_category: nichijou
+  - by_category: photo
 ---
