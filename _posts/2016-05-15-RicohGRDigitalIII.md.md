@@ -1,6 +1,6 @@
 ---
 layout : post
-pid : 10
+pid : 5
 title: "Ricoh GR Digital III"
 date: 2016-05-15 24:46:37 +0800
 modified: 1477446777

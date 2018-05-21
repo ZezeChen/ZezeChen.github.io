@@ -1,6 +1,6 @@
 ---
 layout : post
-pid : 13
+pid : 7
 title: "E-P5 taken by E-M1 focus stacking"
 date: 2016-08-07 02:17:38 +0800
 modified: 1470418483
