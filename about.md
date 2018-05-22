@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 lang: en
 cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1fkf9hasvkjj31kw0w04qq
 cover_meta: >
@@ -10,4 +10,16 @@ navlevel: header
 navtitle: about
 ---
 
-Hey Jude 
+
+
+Find Me Here：
+
+[Twitter](https://twitter.com/softlysighs)
+
+[Weibo](https://www.weibo.com/2197191933)
+
+[Instagram](https://www.instagram.com/karmapilot)
+
+[Telegram](https://telegram.me/benniks)
+
+Nice to Meet You.
