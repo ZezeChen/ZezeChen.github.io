@@ -2,7 +2,7 @@
 layout : post
 pid : 30
 title: "迁移到 Github Pages"
-date: 2018-05-21 13:44:45 +0800
+date: 2020-05-21 13:44:45 +0800
 modified: 1488862741
 cover: 
 category: photo
