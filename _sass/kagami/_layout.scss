@@ -182,3 +182,12 @@ article {
   margin: 4px 8px;
   p { margin: 0; padding: 0; }
 }
+
+
+@media screen and (min-width: 1200px){
+  .post-content p img {
+      width: 900px;
+      max-width: 900px;
+      margin-left: -130px;
+  }
+}
