@@ -11,3 +11,7 @@ Gemfile.lock
 *.plist
 
 _posts/.UlyssesRoot
+
+*.marked
+
+bubble.md
