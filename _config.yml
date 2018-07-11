@@ -26,7 +26,6 @@ color_scheme: github
 google_analytics: UA-79510466-1
 
 disqus_shortname: kpilot
-lang: zh
 mathjax: false
 # Build settings
 markdown: kramdown
