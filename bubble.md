@@ -75,3 +75,10 @@ navtitle: bubble
 ### [TSDO](http://www.tsdo.jp/)
 
 佐藤卓设计事务所的官方网站，
+
+---
+
+### [coverbox](http://coverbox.sinaapp.com/list)
+
+用来收集专辑封面
+
