@@ -56,19 +56,19 @@
 }
 
 @mixin font-serif($font-family-fallback: serif) {
-  font-family:  "Crimson Text", \5FAE\8EDF\6B63\9ED1\9AD4, $font-family-fallback, "Kagami Emoji";
+  font-family: "Crimson Text", $font-family-fallback, "Kagami Emoji";
 }
 
 @mixin font-serif-zh-Hans($font-family-fallback: sans-serif) {
-  font-family:  \5FAE\8EDF\6B63\9ED1\9AD4, "Crimson Text", "Kagami SC", $font-family-fallback, "Kagami Emoji";
+  font-family: "Crimson Text", "Kagami SC", $font-family-fallback, "Kagami Emoji";
 }
 
 @mixin font-serif-zh-Hant($font-family-fallback: sans-serif) {
-  font-family:  \5FAE\8EDF\6B63\9ED1\9AD4, "Crimson Text", "Kagami TC", $font-family-fallback, "Kagami Emoji";
+  font-family: "Crimson Text", "Kagami TC", $font-family-fallback, "Kagami Emoji";
 }
 
 @mixin font-serif-ja($font-family-fallback: sans-serif) {
-  font-family:  "Crimson Text", \5FAE\8EDF\6B63\9ED1\9AD4, "YuMincho", $font-family-fallback, "Kagami Emoji";
+  font-family: "Crimson Text", "YuMincho", $font-family-fallback, "Kagami Emoji";
 }
 
 @mixin font-monospace($font-family-fallback: monospace) {
