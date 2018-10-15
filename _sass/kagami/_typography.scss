@@ -49,6 +49,7 @@ article {
   p {
     hanging-punctuation: allow-end; // no browser supports this rule
     line-height: 2em;
+    font-weight: 400;
   }
 
   .aside, .sidenote, .side-note {
@@ -220,6 +221,7 @@ article {
 
 .post-item-link {
   font-size: 1.4em;
+  font-weight: 500;
 }
 
 .post-description {
