@@ -25,7 +25,7 @@ instagram_username: karmapilot
 color_scheme: github
 google_analytics: UA-79510466-1
 
-disqus_shortname: kpilot
+# disqus_shortname: kpilot
 mathjax: false
 # Build settings
 markdown: kramdown
