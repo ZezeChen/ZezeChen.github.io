@@ -14,3 +14,5 @@ _posts/.UlyssesRoot
 
 *.marked
 bubble.md
+vendor
+.bundle
