@@ -10,7 +10,7 @@ look: 65
 ---
 
 
-![](https://ww2.sinaimg.cn/large/a15b4afegw1f3qcjavca7j20j60ee41a)
+![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmit5g4vj30j60ee41a.jpg)
 
 >图片和水印来自文文的微博
 
