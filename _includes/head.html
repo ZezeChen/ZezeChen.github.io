@@ -6,7 +6,6 @@
   <meta name="p:domain_verify" content="179d7a164f7e00019c5f9cea83682eb1"/>
   <title>{% if page.title %}{{ page.title | append: " - " | append: site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-
   {% assign v = site.time | date: "%Y%m%d%H%M%S" %}
   <link rel="stylesheet" href="{{ "/assets/styles/core.css?v=" | append: v | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/styles/fontello.css?v=" | append: v | relative_url }}">

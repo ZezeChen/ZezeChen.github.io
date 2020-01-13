@@ -2,7 +2,7 @@
 layout: post-list
 title: 其他
 lang: en
-cover_url: https://ww4.sinaimg.cn/mw1024/82f67cfdgw1f7q24p969fj21kw16onlg.jpg
+cover_url: https://vip1.loli.net/2020/01/13/HA62M3rdo97TcGj.png
 position: 3
 navlevel: header
 navtitle: Other

@@ -2,7 +2,7 @@
 layout: post-list
 title: 写真
 lang: en
-cover_url: https://ww1.sinaimg.cn/mw1024/82f67cfdgw1f70pspxua4j21kw0w0wt0.jpg
+cover_url: https://vip1.loli.net/2020/01/13/D3Ii6UgE9smX7rB.png
 position: 2
 navlevel: header
 navtitle: Shashin

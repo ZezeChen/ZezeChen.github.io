@@ -1,5 +1,5 @@
 ---
 layout: home
 title: 憧れの非日常
-cover_url: https://ws3.sinaimg.cn/large/006tNc79gy1froh92armwj31kw108b29.jpg
+cover_url: https://vip1.loli.net/2020/01/13/dULhvcE3WQxsVCS.png
 ---

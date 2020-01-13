@@ -9,15 +9,15 @@ category: photo
 author: benniks
 look: 25
 ---
-![20160801-P8010577.jpg](https://ws2.sinaimg.cn/large/006tNc79gy1g2cmklz8dnj31400u0qp2.jpg)
+![](https://vip1.loli.net/2020/01/13/FoPZpn1fljt5ub3.png)
 
-![20160801-P8010559.jpg](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmkomz6xj31400u0ttw.jpg)
+![](https://vip1.loli.net/2020/01/13/XfcIPzExH8JDMn4.png)
 
-![20160801-P8010550.jpg](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmkrd3dyj31400u0e0u.jpg)
+![](https://vip1.loli.net/2020/01/13/cACoPwKB8fgRhkZ.png)
 
-![20160801-P8010532.jpg](https://ws1.sinaimg.cn/large/006tNc79gy1g2cmkvfcxuj31400u04qp.jpg)
+![](https://vip1.loli.net/2020/01/13/Opumi5d2MDzqk7l.png)
 
-![20160801-P8010541.jpg](https://ws1.sinaimg.cn/large/006tNc79gy1g2cmkyrwpuj31400u0wxi.jpg)
+![](https://vip1.loli.net/2020/01/13/ZrviENIGKJsfqa7.png)
 
 拿 E-P5 试验了一下 E-M1 4.0 固件的景深合成.   
 「景深合成」顾名思义, 就是在按下快门钮之后, 相机自动拍摄几张 ( 8张 ) 焦点渐进的照片, 在机内处理合成在一起.  
@@ -27,5 +27,4 @@ look: 25
 
 做了一张前后焦点移动的拼图.  
 
-![hecheng_0.jpg](https://ws1.sinaimg.cn/large/006tNc79gy1g2cml1zol2j30u04ymwzw.jpg)
-
+![](https://vip1.loli.net/2020/01/13/TrO9GYuK38HhDWI.png)

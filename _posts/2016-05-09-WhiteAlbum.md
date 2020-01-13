@@ -10,8 +10,7 @@ look: 65
 ---
 
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmit5g4vj30j60ee41a.jpg)
-
+![](https://vip1.loli.net/2020/01/13/E9b6X3nNRraiqxT.png)
 >图片和水印来自文文的微博
 
 其实刚到武汉站的时候，其实并没有什么感觉。  

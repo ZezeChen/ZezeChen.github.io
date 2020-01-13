@@ -4,7 +4,7 @@ pid : 1
 title: "一日"
 date: 2016-04-13 24:01:14 +0800
 modified: 1462932087
-cover_url: https://ooo.0o0.ooo/2016/04/12/570d082cd1c0d.jpg 
+cover_url: https://vip1.loli.net/2020/01/13/Xdm8NFVkpW39lt5.png 
 category: nichijou
 author: benniks
 look: 32

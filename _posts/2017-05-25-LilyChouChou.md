@@ -4,14 +4,15 @@ pid : 22
 title: "アイニユケル"
 date: 2017-05-25 24:40:13 +0800
 modified: 1495640633
-cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1ffwujkg4jtj31kw1kw48a
+cover_url: https://vip1.loli.net/2020/01/13/mB9dEOcF3rLxhq5.png
 category: nichijou
 author: benniks
 look: 22
 ---
-![这日](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmxpk81yj31hc0u0q3r.jpg)
-![以太公主降临代代木](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmxqq6bfj31hc0u075r.jpg)
-![是感性的触媒](https://ws2.sinaimg.cn/large/006tNc79gy1g2cmxrxxxoj31hc0u03zs.jpg)
+
+![这日.jpg](https://vip1.loli.net/2020/01/13/u9SGygTjYt613vB.jpg)
+![以太公主降临代代木.jpg](https://vip1.loli.net/2020/01/13/9wNtUZdVvG32A48.jpg)
+![是感性的触媒.jpg](https://vip1.loli.net/2020/01/13/JTrxFDPlUwnob7t.jpg)
 
 ---
 
@@ -59,30 +60,29 @@ look: 22
 
 ---
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2cmxt0fpdj30u00ls76t.jpg)
+![006tNc79gy1g2cmxutxaej30u00u0gn5.jpg](https://vip1.loli.net/2020/01/13/e9I3ON6TpbBnPyj.jpg)
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmxtwkwyj30jl0jl3yr.jpg)
+![006tNc79gy1g2cmxtwkwyj30jl0jl3yr.jpg](https://vip1.loli.net/2020/01/13/ua6ZA4XrMN5JkFt.jpg)
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmxutxaej30u00u0gn5.jpg)
+![006tNc79gy1g2cmy2ronrj30hs0bvac3.jpg](https://vip1.loli.net/2020/01/13/cayQuwzRFE5U7Jb.jpg)
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1g2cmxwdxqfj30u00u0wgj.jpg)
+![006tNc79gy1g2cmxyi4ndj30u00u0wgi.jpg](https://vip1.loli.net/2020/01/13/Rg1BGq7jaE3T9rD.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmxyi4ndj30u00u0wgi.jpg)
+![006tNc79gy1g2cmy1u0y5j30hs0bv3zu.jpg](https://vip1.loli.net/2020/01/13/wPsievZc3tW1Sna.jpg)
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2cmxzgvigj30u00u0q4j.jpg)
+![006tNc79gy1g2cmxwdxqfj30u00u0wgj.jpg](https://vip1.loli.net/2020/01/13/lCXiz3as4Eqt2Uk.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmy00h9jj30k00k0abt.jpg)
+![006tNc79gy1g2cmy00h9jj30k00k0abt.jpg](https://vip1.loli.net/2020/01/13/Pfir8Djou3XZR9J.jpg)
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmy0wihrj30hs0bv409.jpg)
+![006tNc79gy1g2cmy0wihrj30hs0bv409.jpg](https://vip1.loli.net/2020/01/13/iZnvGWPUh2MbNlH.jpg)
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1g2cmy1u0y5j30hs0bv3zu.jpg)
+![006tNc79gy1g2cmxzgvigj30u00u0q4j.jpg](https://vip1.loli.net/2020/01/13/n1NM8cQARXbpKl5.jpg)
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1g2cmy2ronrj30hs0bvac3.jpg)
+![006tNc79gy1g2cmxt0fpdj30u00ls76t.jpg](https://vip1.loli.net/2020/01/13/kQ9MJmTXPhwucZD.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmy4jfrnj31400u0are.jpg)
+![006tNc79gy1g2cmy5hkraj30u00u0t9p.jpg](https://vip1.loli.net/2020/01/13/O3JW2CdkGoagL7i.jpg)
 
-![](https://ws3.sinaimg.cn/large/006tNc79gy1g2cmy5hkraj30u00u0t9p.jpg)
-
+![006tNc79gy1g2cmy4jfrnj31400u0are.jpg](https://vip1.loli.net/2020/01/13/leM39gtFdS1qnhm.jpg)
 ---
 
 Salyu 本人很瘦, 羞涩, 有很多很可爱的小动作, 唱到间歇, 还会卖一下萌逗听众笑.
@@ -124,7 +124,9 @@ Salyu 本人很瘦, 羞涩, 有很多很可爱的小动作, 唱到间歇, 还会
 
 结束出来, 外边还有雨, 但不及下午大. 
 
+
 原路回去路上, 想起 < 一天世界 > 一篇[博文](https://blog.yitianshijie.net/2016/11/16/killing-ephemeral-beauty-with-technology/) :
+
 
 > 「突然想起[《金阁寺》](https://book.douban.com/subject/3391248/)里面有一人吹笛子，吹完之后说音乐是转瞬即逝的美，相比而言作为建筑的金阁寺就是永恒的美（原话忘了）。在那个场景里我第一次想到以前的音乐真的是听一次就没有了。作为现代人真的挺难意识到这一点。」
 

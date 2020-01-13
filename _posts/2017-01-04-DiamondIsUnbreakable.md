@@ -4,7 +4,7 @@ pid : 15
 title: "Diamond Is Unbreakable"
 date: 2017-01-04 24:58:07 +0800
 modified: 1483624851
-cover_url: https://ww2.sinaimg.cn/large/82f67cfdgw1f87fr29m9aj21hc0u0k5z
+cover_url: https://vip1.loli.net/2020/01/13/WgHiyUrx8otuJpZ.png
 category: nichijou
 author: benniks
 look: 21
@@ -41,7 +41,7 @@ look: 21
 
 ## 「仗」
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmnuvkvgj30cn0id42j.jpg)
+![image.png](https://vip1.loli.net/2020/01/13/rhYnoTmlApjEfuN.png)
 
 在访谈中谈及 jojo 的核心主题, 荒木飞吕彦曾说: 
 
@@ -64,7 +64,7 @@ look: 21
 
 ## 吉良吉影
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1g2cmnwwolzj30ha0kn45s.jpg)
+![image.png](https://vip1.loli.net/2020/01/13/bSfiwHqj36C5tLE.png)
 
 > 我的名字叫吉良吉影, 33岁.住在杜王町东北部的别墅区一带, 未婚.我在龟友连锁店服务.每天都要加班到晚上8点才能回家.我不抽烟, 酒仅止于浅尝.晚上11点睡, 每天要睡足8个小时.睡前, 我一定喝一杯温牛奶, 然后做20分钟的柔软操, 上了床马上熟睡.一觉到天亮, 决不把疲劳和压力, 留到第二天.医生都说我很正常.
 
@@ -98,6 +98,6 @@ look: 21
 
 ## 结
  
-![](https://ws1.sinaimg.cn/large/006tNc79gy1g2cmnxywr4j30ez06v0u5.jpg)
+![image.png](https://vip1.loli.net/2020/01/13/RpIJMVwDzmUA7Fh.png)
 
 总之, 1999 年的夏天跟以往的夏天没什么两样...就这么理所当然的过去了.

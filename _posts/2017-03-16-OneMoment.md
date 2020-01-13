@@ -4,7 +4,6 @@ pid : 18
 title: "一阵"
 date: 2017-03-16 23:56:37 +0800
 modified: 1489589916
-cover_url: https://ww2.sinaimg.cn/large/006tNbRwgy1fdnwhpfiipj31kw16o7wh
 category: nichijou
 author: benniks
 look: 37
