@@ -5,7 +5,7 @@ lang: zh-Hans
 cover_url: https://vip1.loli.net/2020/01/13/HA62M3rdo97TcGj.png
 position: 4
 navlevel: header
-navtitle: Other
+navtitle: Life
 filter:
-  - by_category: other
+  - by_category: Life
 ---
