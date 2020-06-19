@@ -2,7 +2,7 @@
 layout: post-list
 title: Math
 lang: zh-Hans
-cover_url: https://vip1.loli.net/2020/01/13/4VAh67itnvxRDeP.png
+cover_url: https://www.stephen520.cn/storage/images/201911/052eb45c0b8a9ce6d5edf6f251e52a53.jpg
 position: 1
 navlevel: header
 navtitle: Math
