@@ -4,10 +4,8 @@ pid : 25
 title: "伊佛路森"
 date: 2017-12-12 15:59:13 +0800
 modified: 1512975492
-cover: 
 category: Life
 author: benniks
-look: 12
 ---
 最近想起高中。
 其实过去几十年，好像并没有那种「回忆起来不难为情」的时间段。
