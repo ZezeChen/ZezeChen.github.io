@@ -3,7 +3,7 @@ layout : post
 pid : 30
 title: "#ShotoniPhone"
 date: 2018-09-13 00:10:38 +0800
-category: photo
+category: Life
 author: benniks
 ---
 
