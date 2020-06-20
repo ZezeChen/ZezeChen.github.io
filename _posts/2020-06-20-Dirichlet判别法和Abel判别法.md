@@ -134,11 +134,11 @@ $$
 
 设
 $$
-\forall A \geq a
-$$
-有
-$$
 |F(A)| \leq C
+$$
+,
+$$
+\forall A \geq a
 $$
 ，则
 
