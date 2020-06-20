@@ -96,9 +96,12 @@ $$
 $$
 由Abel引理，得$$|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| \leq 4M (|b_{n+1}(x)|+|b_{n+p}(x)|).$$
 
-由1°知$$\forall  \epsilon > 0$$ , $$\exists N$$使得当$$n>N$$时，$$\forall x \in E$$，有$$|b_n(x)|< \frac{\epsilon}{8M}$$.
+由1°知$$\forall  \epsilon > 0$$ , $$\exists N$$使得当$$n>N$$时，
+$$\forall x \in E$$，
+有$$|b_n(x)|< \frac{\epsilon}{8M}$$.
 
-所以当$$n>N$$时，$$|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| < \epsilon$$ 成立, $$\forall x \in E\]及\[p \in \mathbb{N}$$.
+所以当$$n>N$$时，$$|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| < \epsilon$$ 成立, 
+$$\forall x \in E\]及\[p \in \mathbb{N}$$.
 
 于是根据Cauchy准则，结论成立.
 
