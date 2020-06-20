@@ -150,7 +150,7 @@ $$
 
 又因为 $$\lim_{x \to + \infty} g(x) =0$$ 。故 $$\forall \epsilon >0$$ ， $$\exists M>0$$ ，使得$$x>M$$ 时，有 
 $$
-|g(x) \leq \frac{\epsilon}{4C}.
+|g(x)| \leq \frac{\epsilon}{4C}.
 $$
 
 由积分第二中值定理，当 $$A,B>M$$ 时， 
