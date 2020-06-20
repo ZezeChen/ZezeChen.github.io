@@ -101,7 +101,7 @@ $$\forall x \in E$$，
 有$$|b_n(x)|< \frac{\epsilon}{8M}$$.
 
 所以当$$n>N$$时，$$|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| < \epsilon$$ 成立, 
-$$\forall x \in E\]及\[p \in \mathbb{N}$$.
+$$\forall x \in E$$及$$p \in \mathbb{N}$$.
 
 于是根据Cauchy准则，结论成立.
 
