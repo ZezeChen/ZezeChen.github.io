@@ -29,7 +29,7 @@ layout: default
   {% assign posts = site.posts %}
   {% endif %}
   {% for post in posts %}
-  <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
+  <li class="post-list-item" data-category="{{ post.category | join: " " }}">
     {% if post.cover_url %}
     <div class="post-item-cover" style="background-image: url('{{ post.cover_url }}')"></div>
     {% endif %}
