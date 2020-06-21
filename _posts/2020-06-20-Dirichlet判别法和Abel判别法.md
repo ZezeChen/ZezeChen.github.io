@@ -28,7 +28,7 @@ $$
 
 **Abel引理**
 
-$a_n$ 单调，且 $|B_i|\leq M$ ，则
+$a_n$ 单调，且 $|B_i|≤M$ ，则
 
 $$
 |\sum_{i=m+1}^n a_i b_i|\leq2M(|a_{m+1}|+|a_n|).
@@ -96,7 +96,7 @@ $$
 
 证明：
 
-设 $|A_n(x)|\leq M$ , $\forall x\in E$ 及 $n$ 成立，则
+设 $|A_n(x)|≤ M$ , $\forall x\in E$ 及 $n$ 成立，则
 
 $$
 |\sum_{k=n+1}^{n+p} a_k(x)|=|A_{n+p}(x)-A_n(x)| \leq 2M.
@@ -127,7 +127,7 @@ $\forall x \in E$ 及 $p \in \mathbb{N}$.
 
 证明：
 
-设 $|b_n(x)|\leq M$ .由条件2°， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
+设 $|b_n(x)|≤M$ .由条件2°， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
 
 $$
 |\sum_{k=n+1}^{n+p} a_k(x)| < \frac{\epsilon}{4M}.
