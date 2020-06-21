@@ -28,6 +28,7 @@ google_analytics: UA-170134317-1
 # disqus_shortname: kpilot
 mathjax: true
 # Build settings
+encoding: UTF-8
 markdown: kramdown
 #theme: minima
 plugins:
