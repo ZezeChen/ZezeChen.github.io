@@ -28,25 +28,21 @@ $$
 
 **Abel引理**
 
-$a_n$ 单调，且$ |B_i|\leqM $，则
+$a_n$ 单调，且 $\lvert B_i\rvert\leq M$ ，则
 
 $$
-|\sum_{i=m+1}^n a_i b_i|\leq2M(|a_{m+1}|+|a_n|).
+\lvert\sum_{i=m+1}^n a_i b_i\rvert\leq2M(\lvert a_{m+1}\rvert+\lvert a_n\rvert).
 $$
 
 证明：
 
 $$
 \begin{align}
-|\sum_{i=m+1}^n a_i b_i|&=|\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}|
-\\\\&\leq
-\sum_{i=1}^{n-1}|a_i - a_{i+1}||B_i|+|a_n||B_n|+|a_{m+1}||B_{m+1}|
-\\\\&\leq
-M(\sum_{i=m+1}^{n-1}|a_i||a_{i-1}|+|a_n|+|a_{m+1}|)
-\\\\&=
-M(|a_n-a_{m+1}|+|a_n|+|a_{m+1}|)
-\\\\&\leq
-2M(|a_n|+|a_{m+1}|)
+\lvert\sum_{i=m+1}^n a_i b_i\rvert&=\lvert\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}\rvert \\
+&\leq\sum_{i=1}^{n-1}\lvert a_i - a_{i+1}\rvert\lvert B_i\rvert+\lvert a_n\rvert\lvert B_n\rvert+\lvert a_{m+1}\rvert\lvert B_{m+1}\rvert \\
+&\leq M(\sum_{i=m+1}^{n-1}\lvert a_i\rvert\lvert a_{i-1}\rvert+\lvert a_n\rvert+\lvert a_{m+1}\rvert) \\
+&=M(\lvert a_n-a_{m+1}\rvert+\lvert a_n\rvert+\lvert a_{m+1}\rvert) \\
+&\leq2M(\lvert a_n\rvert+\lvert a_{m+1}\rvert)
 \end{align}
 $$
 
@@ -65,7 +61,7 @@ $$
 由Abel变换及Abel引理
 
 $$
-|\sum_{n+1}^{n+p} a_i b_i | \leq 2M(|a_{n+1}|+|a_{n+p}|) \leq 4M(|a_{n+1}|) \rightarrow 0.
+\lvert \sum_{n+1}^{n+p} a_i b_i\rvert\leq 2M(\lvert a_{n+1}\rvert +\lvert a_{n+p}\rvert) \leq 4M(\lvert a_{n+1}\rvert) \rightarrow 0.
 $$
 
 由Cauchy收敛准则知，级数收敛.
@@ -96,23 +92,22 @@ $$
 
 证明：
 
-设$ |A_n(x)|≤ M \quad (\forall x\in E and n\in\mathbb{N} $，则
+设 $\lvert A_n(x)\rvert\leq M \quad (\forall x\in E\quad and\quad n\in\mathbb{N})$ ，则
 
 $$
-|\sum_{k=n+1}^{n+p} a_k(x)|=|A_{n+p}(x)-A_n(x)| \leq 2M.
+\lvert\sum_{k=n+1}^{n+p} a_k(x)\rvert=\lvert A_{n+p}(x)-A_n(x)\rvert \leq 2M.
 $$
 
 由Abel引理，得 
 
 $$
-|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| \leq 4M (|b_{n+1}(x)|+|b_{n+p}(x)|).
+\lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert \leq 4M (\lvert b_{n+1}(x)\rvert+\lvert b_{n+p}(x)\rvert).
 $$
 
-由1°知 $\forall  \epsilon > 0$  ,  $\exists N \$ 使得当 $n>N$ 时，
-$\forall x \in E$ ，有 $|b_n(x)|< \frac{\epsilon}{8M}$ .
+由1°知 $\forall  \epsilon > 0$  ,  $\exists N$ 使得当 $n>N$ 时，
+$\forall x \in E$ ，有 $\lvert b_n(x)\rvert< \frac{\epsilon}{8M}$ .
 
-所以当 $n>N$ 时， $|\sum_{k=n+1}^{n+p} a_k(x) b_k(x)| < \epsilon$ 成立, 
-$\forall x \in E$ 及 $p \in \mathbb{N}$.
+所以当 $n>N$ 时，有 $\lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert < \epsilon\quad(\forall x \in E \quad and \quad p \in \mathbb{N})$.
 
 于是根据Cauchy准则，结论成立.
 
@@ -127,16 +122,16 @@ $\forall x \in E$ 及 $p \in \mathbb{N}$.
 
 证明：
 
-设 $ |b_n(x)|≤M $.由条件2°，$ \forall\epsilon > 0 $，$ \exists N $ ,使得当$ n>N $时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
+设 $\lvert b_n(x)\rvert\leqM.$ 由条件2°， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
 
 $$
-|\sum_{k=n+1}^{n+p} a_k(x)| < \frac{\epsilon}{4M}.
+\lvert\sum_{k=n+1}^{n+p} a_k(x)\rvert<\frac{\epsilon}{4M}.
 $$
 
 根据Abel引理 $\forall x \in E$ 及 $p \in \mathbb{N}$ 有
 
 $$
-|\sum_{k=n+1}^{n+p} a_k(x)b_k(x)| \leq \frac{\epsilon}{4M} 2M (|b_{n+1}(x)|+|b_{n+p}(x)|) < \epsilon.
+\lvert\sum_{k=n+1}^{n+p} a_k(x)b_k(x)\rvert\leq\frac{\epsilon}{4M} 2M (\lvert b_{n+1}(x)\rvert+\lvert b_{n+p}(x)\rvert) < \epsilon.
 $$
 
 于是根据Cauchy准则，结论成立.
@@ -152,31 +147,29 @@ $$
 设
 
 $$
-|F(A)| \leq C\quad(\forall A \geq a)
+\lvert F(A)\rvert\leq C\quad(\forall A \geq a)
 $$
 
 则
 
 $$
-\begin{align}
-|\int_A^B f(x)dx|=|\int_a^B f(x)dx-\int_a^A f(x)dx| \leq 2C ,\forall A,B \geq a
-\end{align}
+\lvert\int_A^B f(x)dx\rvert=\lvert\int_a^B f(x)dx-\int_a^A f(x)dx\rvert\leq 2C ,\quad\forall A,B \geq a
 $$
 
 又因为 $\lim_{x \to + \infty} g(x) =0$ 。故 $\forall \epsilon >0$ ， $\exists M>0$ ，使得$x>M$ 时，有 
 
 $$
-|g(x)| \leq \frac{\epsilon}{4C}.
+\lvert g(x)\rvert \leq \frac{\epsilon}{4C}.
 $$
 
 由积分第二中值定理，当 $A,B>M$ 时， 
 
 $$
 \begin{align}
-|\int_A^B f(x)g(x)dx|&=|g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^Bf(x)dx|
-\\\\&\leq \frac{\epsilon}{4C}|\int_A^{\xi} f(x)dx|+\frac{\epsilon}{4C}|\int_{\xi}^B f(x)dx|
-\\\\&\leq \frac{\epsilon}{4C} \cdot 2C + \frac{\epsilon}{4C} \cdot 2C
-\\\\&=\epsilon
+\lvert\int_A^B f(x)g(x)dx\rvert&=\lvert g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^Bf(x)dx\rvert\\
+&\leq\frac{\epsilon}{4C}\lvert\int_A^{\xi} f(x)dx\rvert+\frac{\epsilon}{4C}\lvert\int_{\xi}^B f(x)dx\rvert\\
+&\leq \frac{\epsilon}{4C} \cdot 2C + \frac{\epsilon}{4C} \cdot 2C\\
+&=\epsilon
 \end{align}
 $$
 
@@ -191,24 +184,22 @@ $$
 因为 $g(x)$ 有界，可设 
 
 $$
-|g(x)| \leq C , \forall x \in [a,\infty).
+\lvert g(x)\rvert\leq C , \forall x \in [a,\infty).
 $$
 
 又因为 $f$ 积分收敛，故 $\forall \epsilon >0$ ， $\exists M >0$ 使得 $A,B>M$ 时,有
 
 $$
-\begin{align}
-|\int_A^B f(x)dx| \leq \frac{\epsilon}{2C}
-\end{align}
+\lvert\int_A^B f(x)dx\rvert\leq\frac{\epsilon}{2C}
 $$
 
 由积分第二中值定理可知
 
 $$
 \begin{align}
-|\int_A^B f(x)g(x)dx|&=|g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^B f(x)dx|
-\\\\&\leq C |\int_A^{\xi} f(x)dx| +C|\int_{\xi}^B f(x)dx|
-\\\\&\leq \epsilon
+\lvert\int_A^B f(x)g(x)dx\rvert&=\lvert g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^B f(x)dx\rvert\\
+&\leq C\lvert\int_A^{\xi} f(x)dx\rvert+C\lvert\int_{\xi}^B f(x)dx\rvert\\
+&\leq \epsilon
 \end{align}
 $$
 
