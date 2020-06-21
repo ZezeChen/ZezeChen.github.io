@@ -1,9 +1,10 @@
 ---
 layout : post
+pid : 25
 title: Dirichlet判别法和Abel判别法
 date: 2020-06-20 
+cover_url: http://ww1.sinaimg.cn/large/006bYYnlly1gg08o96rz6j30rs0yjwii.jpg
 category: Math
-cover_url: https://pic2.zhimg.com/80/v2-67b951679604ead463b8ce06d0ccbfa6_720w.jpg
 ---
 
 # 引理
