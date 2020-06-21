@@ -1,6 +1,5 @@
 ---
 layout : post
-pid : 25
 title: Dirichlet判别法和Abel判别法
 date: 2020-06-20 
 category: Math
