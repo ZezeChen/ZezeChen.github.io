@@ -18,7 +18,6 @@ $$
 $$
 
 **Abel变换**
-
 $$
 \sum_{i=m+1}^n a_i b_i =\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}
 $$
@@ -48,7 +47,7 @@ $$
 
 # 数列级数
 
-> **Dirichlet判别法** 设数列 $\{a_n\}$ 单调且趋于 $0$ ，级数 $\sum_{n=1}^\infty b_n$ 的部分和有界，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
+> **Dirichlet判别法** 设数列 $\left\{a_n\right\}$ 单调且趋于 $0$ ，级数 $\sum_{n=1}^\infty b_n$ 的部分和有界，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
 
 证明：
 
@@ -61,16 +60,16 @@ $$
 由Abel变换及Abel引理
 
 $$
-\lvert \sum_{n+1}^{n+p} a_i b_i\rvert\leq 2M(\lvert a_{n+1}\rvert +\lvert a_{n+p}\rvert) \leq 4M(\lvert a_{n+1}\rvert) \rightarrow 0.
+\lvert \sum_{n+1}^{n+p} a_i b_i\rvert\leq 2M(\lvert a_{n+1}\rvert +\lvert a_{n+p}\rvert) \leq 4M\lvert a_{n+1}\rvert\rightarrow 0.
 $$
 
 由Cauchy收敛准则知，级数收敛.
 
-> **Abel判别法** 如果 $\{a_n\}$ 单调有界， $\sum_{n=1}^\infty b_n$ 收敛，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
+> **Abel判别法** 如果  $\left\{a_n\right\}$  单调有界， $\sum_{n=1}^\infty b_n$ 收敛，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
 
 证明：
 
-$\{a_n\}$ 单调有界，则极限存在，即 $\lim_{x\to \infty} a_n =a$ .于是 $\{a_n-a\}$ 单调收敛于 $0$ .
+ $\left\{a_n\right\}$  单调有界，则极限存在，即 $\lim_{x\to \infty} a_n =a$ .于是 $\left\{a_n-a\right\}$ 单调收敛于 $0$ .
 
 由Dirichlet判别法,可知 $\sum_{n=1}^{\infty} (a_n-a)b_n$ 收敛，从而级数
 
@@ -84,9 +83,9 @@ $$
 
 > **Dirichlet判别法** 设 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 是定义在 $E$ 上的函数项级数.若
 > 
-> 1° $\{b_n(x)\}$ 在 $E$ 上一致收敛于 $0$ ，且对于每个固定的 $x$ 是单调递减的；
+> $1^\circ$ $\left\{b_n(x)\right\}$ 在 $E$ 上一致收敛于 $0$ ，且对于每个固定的 $x$ 是单调递减的；
 > 
-> 2°  $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致有界，
+> $1^\circ$  $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致有界，
 > 
 > 则 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 在 $E$ 上一致收敛.
 
@@ -104,25 +103,27 @@ $$
 \lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert \leq 4M (\lvert b_{n+1}(x)\rvert+\lvert b_{n+p}(x)\rvert).
 $$
 
-由1°知 $\forall  \epsilon > 0$  ,  $\exists N$ 使得当 $n>N$ 时，
-$\forall x \in E$ ，有 $\lvert b_n(x)\rvert< \frac{\epsilon}{8M}$ .
+由$1^\circ$知 $\forall  \epsilon > 0$  ,  $\exists N$ 使得当 $n>N$ 时，$\forall x \in E$ ，有 $\lvert b_n(x)\rvert< \frac{\epsilon}{8M}$ .
 
-所以当 $n>N$ 时，有 $\lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert < \epsilon\quad(\forall x \in E \quad and \quad p \in \mathbb{N})$.
+所以当 $n>N$ 时，有
+$$
+\lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert < \epsilon\quad(\forall x \in E \quad and \quad p \in \mathbb{N})
+$$
 
 于是根据Cauchy准则，结论成立.
 
 
 > **Abel判别法** 设 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 是定义在 $E$ 上的函数项级数.若
 >
-> 1° $\{b_n(x)\}$ 在 $E$ 上一致有界，且对于每个固定的 $x$ 是单调的；
+> $1^\circ$ $\left\{b_n(x)\right\}$ 在 $E$ 上一致有界，且对于每个固定的 $x$ 是单调的；
 >
-> 2° $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致收敛，
+> $2^\circ$ $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致收敛，
 >
 > 则 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 在 $E$ 上一致收敛.
 
 证明：
 
-设 $\lvert b_n(x)\rvert\leqM.$ 由条件2°， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
+设 $\lvert b_n(x)\rvert\leq M.$ 由条件 $2^\circ$ ， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
 
 $$
 \lvert\sum_{k=n+1}^{n+p} a_k(x)\rvert<\frac{\epsilon}{4M}.
@@ -131,7 +132,7 @@ $$
 根据Abel引理 $\forall x \in E$ 及 $p \in \mathbb{N}$ 有
 
 $$
-\lvert\sum_{k=n+1}^{n+p} a_k(x)b_k(x)\rvert\leq\frac{\epsilon}{4M} 2M (\lvert b_{n+1}(x)\rvert+\lvert b_{n+p}(x)\rvert) < \epsilon.
+\lvert\sum_{k=n+1}^{n+p} a_k(x)b_k(x)\rvert\leq\frac{\epsilon}{4M}2M (\lvert b_{n+1}(x)\rvert+\lvert b_{n+p}(x)\rvert) < \epsilon.
 $$
 
 于是根据Cauchy准则，结论成立.
