@@ -18,10 +18,10 @@ $$
 $$
 
 **Abel变换**
+
 $$
 \sum_{i=m+1}^n a_i b_i =\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}
 $$
-
 
 其中 $B_n$ 为 $b_n$ 的前 $n$ 项和.
 
@@ -106,6 +106,7 @@ $$
 由$1^\circ$知 $\forall  \epsilon > 0$  ,  $\exists N$ 使得当 $n>N$ 时，$\forall x \in E$ ，有 $\lvert b_n(x)\rvert< \frac{\epsilon}{8M}$ .
 
 所以当 $n>N$ 时，有
+
 $$
 \lvert\sum_{k=n+1}^{n+p} a_k(x) b_k(x)\rvert < \epsilon\quad(\forall x \in E \quad and \quad p \in \mathbb{N})
 $$
@@ -123,7 +124,7 @@ $$
 
 证明：
 
-设 $\lvert b_n(x)\rvert\leq M.$ 由条件 $2^\circ$ ， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E$ 及 $p\in\mathbb{N}$ 有
+设 $\lvert b_n(x)\rvert\leq M.$ 由条件 $2^\circ$ ， $\forall\epsilon > 0$ ， $\exists N$ ,使得当 $n>N$ 时， $\forall x\in E\quad and \quad p\in\mathbb{N}$ 有
 
 $$
 \lvert\sum_{k=n+1}^{n+p} a_k(x)\rvert<\frac{\epsilon}{4M}.
