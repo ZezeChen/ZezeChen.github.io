@@ -47,7 +47,7 @@ $$
 
 # 数列级数
 
-> **Dirichlet判别法** 设数列 $\left\{a_n\right\}$ 单调且趋于 $0$ ，级数 $\sum_{n=1}^\infty b_n$ 的部分和有界，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
+> **Dirichlet判别法** 设数列 $\{a_n\}$ 单调且趋于 $0$ ，级数 $\sum_{n=1}^\infty b_n$ 的部分和有界，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
 
 证明：
 
@@ -65,11 +65,11 @@ $$
 
 由Cauchy收敛准则知，级数收敛.
 
-> **Abel判别法** 如果  $\left\{a_n\right\}$  单调有界， $\sum_{n=1}^\infty b_n$ 收敛，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
+> **Abel判别法** 如果  $\{a_n\}$  单调有界， $\sum_{n=1}^\infty b_n$ 收敛，则级数 $\sum_{n=1}^\infty a_n b_n$ 收敛.
 
 证明：
 
- $\left\{a_n\right\}$  单调有界，则极限存在，即 $\lim_{x\to \infty} a_n =a$ .于是 $\left\{a_n-a\right\}$ 单调收敛于 $0$ .
+ $\{a_n\}$  单调有界，则极限存在，即 $\lim_{x\to \infty} a_n =a$ .于是 $\{a_n-a\}$ 单调收敛于 $0$ .
 
 由Dirichlet判别法,可知 $\sum_{n=1}^{\infty} (a_n-a)b_n$ 收敛，从而级数
 
@@ -83,7 +83,7 @@ $$
 
 > **Dirichlet判别法** 设 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 是定义在 $E$ 上的函数项级数.若
 > 
-> $1^\circ$ $\left\{b_n(x)\right\}$ 在 $E$ 上一致收敛于 $0$ ，且对于每个固定的 $x$ 是单调递减的；
+> $1^\circ$ $\{b_n(x)\}$ 在 $E$ 上一致收敛于 $0$ ，且对于每个固定的 $x$ 是单调递减的；
 > 
 > $1^\circ$  $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致有界，
 > 
@@ -115,7 +115,7 @@ $$
 
 > **Abel判别法** 设 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 是定义在 $E$ 上的函数项级数.若
 >
-> $1^\circ$ $\left\{b_n(x)\right\}$ 在 $E$ 上一致有界，且对于每个固定的 $x$ 是单调的；
+> $1^\circ$ $\{b_n(x)\}$ 在 $E$ 上一致有界，且对于每个固定的 $x$ 是单调的；
 >
 > $2^\circ$ $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致收敛，
 >
