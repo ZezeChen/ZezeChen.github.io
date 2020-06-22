@@ -2,7 +2,7 @@
 layout: post-list
 title: Life
 lang: zh-Hans
-cover_url: https://vip1.loli.net/2020/01/13/HA62M3rdo97TcGj.png
+cover_url: http://ww1.sinaimg.cn/large/006bYYnlly1gg0rrh06rxj31kw16onpf.jpg
 position: 3
 navlevel: header
 navtitle: Life
