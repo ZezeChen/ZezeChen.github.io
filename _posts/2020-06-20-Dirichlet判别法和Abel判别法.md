@@ -13,14 +13,13 @@ category: Math
 
 $$
 \begin{align}
-\sum_{k=m}^n a_{k+1}(b_{k+1}-b_k)+\sum_{k=m}^n b_{k}(a_{k+1}-a_k)=a_n b_n-a_m b_m
+\sum_{i=m}^n a_{i+1}(b_{i+1}-b_i)+\sum_{i=m}^n b_{i}(a_{i+1}-a_i)=a_{n+1} b_{n+1}-a_m b_m
 \end{align}
 $$
 
 **Abel变换**
-
 $$
-\sum_{i=m+1}^n a_i b_i =\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}
+\sum_{i=m}^n a_{i+1} b_{i+1} =\sum_{i=m}^{n} (a_i-a_{i+1})B_i+a_{n+1}B_{n+1}-a_{m}B_{m}
 $$
 
 其中 $B_n$ 为 $b_n$ 的前 $n$ 项和.
@@ -85,7 +84,7 @@ $$
 > 
 > $1^\circ$ $\{b_n(x)\}$ 在 $E$ 上一致收敛于 $0$ ，且对于每个固定的 $x$ 是单调递减的；
 > 
-> $1^\circ$  $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致有界，
+> $2^\circ$  $A_n(x)=\sum_{k=1}^n a_k(x)$ 在 $E$ 上一致有界，
 > 
 > 则 $\sum_{n=1}^\infty a_n(x) b_n(x)$ 在 $E$ 上一致收敛.
 
