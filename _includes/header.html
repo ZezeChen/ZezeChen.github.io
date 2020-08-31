@@ -3,6 +3,16 @@
   <h1 class="post-title" itemprop="name headline">{{ page.title | escape | replace: "​", "<wbr>" }}</h1>
 </header>
 
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
 {% if page.cover_url %}
 <div class="post-cover" aria-label="Cover">
   <div class="post-cover-wrapper">
@@ -11,3 +21,4 @@
   <div class="cover-meta">{{ page.cover_meta | markdownify }}</div>
 </div>
 {% endif %}
+
