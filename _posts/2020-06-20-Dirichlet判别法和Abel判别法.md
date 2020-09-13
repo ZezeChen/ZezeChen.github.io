@@ -12,9 +12,9 @@ category: Math
 **部分和公式**
 
 $$
-\begin{align}
+\begin{aligned}
 \sum_{i=m}^n a_{i+1}(b_{i+1}-b_i)+\sum_{i=m}^n b_{i}(a_{i+1}-a_i)=a_{n+1} b_{n+1}-a_m b_m
-\end{align}
+\end{aligned}
 $$
 
 **Abel变换**
@@ -36,13 +36,13 @@ $$
 证明：
 
 $$
-\begin{align}
+\begin{aligned}
 \lvert\sum_{i=m+1}^n a_i b_i\rvert&=\lvert\sum_{i=m+1}^{n-1} (a_i-a_{i+1})B_i+a_nB_n-a_{m+1}B_{m+1}\rvert \\
 &\leq\sum_{i=1}^{n-1}\lvert a_i - a_{i+1}\rvert\lvert B_i\rvert+\lvert a_n\rvert\lvert B_n\rvert+\lvert a_{m+1}\rvert\lvert B_{m+1}\rvert \\
 &\leq M(\sum_{i=m+1}^{n-1}\lvert a_i\rvert\lvert a_{i-1}\rvert+\lvert a_n\rvert+\lvert a_{m+1}\rvert) \\
 &=M(\lvert a_n-a_{m+1}\rvert+\lvert a_n\rvert+\lvert a_{m+1}\rvert) \\
 &\leq2M(\lvert a_n\rvert+\lvert a_{m+1}\rvert)
-\end{align}
+\end{aligned}
 $$
 
 # 数列级数
@@ -138,9 +138,7 @@ $$
 
 于是根据Cauchy准则，结论成立.
 
-## 反常积分
-
-
+# 反常积分
 
 > **Dirichlet判别法** 设 $F(A)=\int_a^A f(x)dx$ 在 $[a,\infty)$ 上有界，函数 $g(x)$ 在 $[a,\infty)$ 上单调，且 $\lim_{x \to + \infty} g(x) =0$ ，则积分 $\int_a^{+ \infty} f(x)g(x)dx$ 收敛。
 
@@ -167,12 +165,12 @@ $$
 由积分第二中值定理，当 $A,B>M$ 时， 
 
 $$
-\begin{align}
+\begin{aligned}
 \lvert\int_A^B f(x)g(x)dx\rvert&=\lvert g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^Bf(x)dx\rvert\\
 &\leq\frac{\epsilon}{4C}\lvert\int_A^{\xi} f(x)dx\rvert+\frac{\epsilon}{4C}\lvert\int_{\xi}^B f(x)dx\rvert\\
 &\leq \frac{\epsilon}{4C} \cdot 2C + \frac{\epsilon}{4C} \cdot 2C\\
 &=\epsilon
-\end{align}
+\end{aligned}
 $$
 
 由Cauchy收敛准则知，积分 $\int_a^{+ \infty} f(x)g(x)dx$ 收敛。
@@ -198,11 +196,11 @@ $$
 由积分第二中值定理可知
 
 $$
-\begin{align}
+\begin{aligned}
 \lvert\int_A^B f(x)g(x)dx\rvert&=\lvert g(A)\int_A^{\xi} f(x)dx +g(B)\int_{\xi}^B f(x)dx\rvert\\
 &\leq C\lvert\int_A^{\xi} f(x)dx\rvert+C\lvert\int_{\xi}^B f(x)dx\rvert\\
 &\leq \epsilon
-\end{align}
+\end{aligned}
 $$
 
 由Cauchy准则知，积分收敛。
