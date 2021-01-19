@@ -2,8 +2,7 @@
 layout : post
 pid : 25
 title: Dirichlet判别法和Abel判别法
-date: 2020-06-20 
-cover_url: http://ww1.sinaimg.cn/large/006bYYnlly1gg08o96rz6j30rs0yjwii.jpg
+date: 2020-06-20  
 category: Math
 ---
 
