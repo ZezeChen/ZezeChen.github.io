@@ -5,7 +5,7 @@
 
 body {
   color: $content-color;
-  font-size: font-size();
+  font-size: 18px;
   font-weight: 300;
   font-kerning: normal;
   border-top: 2px solid currentColor;
@@ -50,6 +50,7 @@ article {
     hanging-punctuation: allow-end; // no browser supports this rule
     line-height: 2em;
     font-weight: 400;
+    font-size: 16px;
   }
 
   .aside, .sidenote, .side-note {
@@ -86,8 +87,6 @@ article {
 
   blockquote {
     // font-style: italic;
-    font-size: .8em;
-    color: #999;
   }
 
   code {
@@ -154,7 +153,6 @@ article {
 .post-title {
   word-break: keep-all;
   margin-top: -0.5 * $font-size;
-  font-weight: 900;
 }
 
 .post-cover {
@@ -180,7 +178,7 @@ article {
 
 .post-footer {
   color: lighten($content-color, 50%);
-  font-size: 0.75em;
+  font-size: 0.875em;
   @include scut-clearfix;
 
   .post-meta { float: left; }
@@ -223,8 +221,8 @@ article {
 }
 
 .post-item-link {
-  font-size: 1.2em;
-  font-weight: 700;
+  font-size: 1.4em;
+  font-weight: 500;
 }
 
 .post-description {

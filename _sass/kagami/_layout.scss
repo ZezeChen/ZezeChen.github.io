@@ -20,6 +20,7 @@ body {
   margin: 0 auto;
   padding-left: $content-padding;
   padding-right: $content-padding;
+
   @media screen and (min-width: $content-width) {
     padding-left: $content-padding + $post-margin-width;
     padding-right: $content-padding + $post-margin-width;
@@ -31,12 +32,24 @@ article {
   $vspacing: $spacing-unit;
   $hspacing: $spacing-unit / 2;
 
-  h1, h2, h3, h4, h5, h6, p, ul, ol, pre, hr, blockquote, img:only-child {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  ul,
+  ol,
+  pre,
+  hr,
+  blockquote {
     display: block;
     margin: $vspacing auto;
   }
 
-  li > ul, li > ol {
+  li>ul,
+  li>ol {
     margin-top: 0;
     margin-bottom: 0;
   }
@@ -61,10 +74,12 @@ article {
   blockquote {
     margin-left: 0.5 * $spacing-unit;
     margin-right: 0.5 * $spacing-unit;
+
     @media screen and (min-width: $content-width) {
       margin-left: $spacing-unit;
       margin-right: $spacing-unit;
     }
+
     cite {
       display: block;
       text-align: right;
@@ -73,7 +88,9 @@ article {
     }
   }
 
-  .aside, .sidenote, .side-note {
+  .aside,
+  .sidenote,
+  .side-note {
     width: 160px;
     float: left;
     margin-left: -$post-margin-width;
@@ -82,10 +99,20 @@ article {
   }
 
   @media screen and (max-width: $content-width) {
-    h2, h3, h4, h5, h6 {
-      &::before { color: rgba(0,0,0,0); }
+
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      &::before {
+        color: rgba(0, 0, 0, 0);
+      }
     }
-    .aside, .sidenote, .side-note {
+
+    .aside,
+    .sidenote,
+    .side-note {
       display: none;
     }
   }
@@ -97,10 +124,19 @@ article {
     }
   }
 
-  h1, h2, h3, h4, h5, h6 { // reduce spacing after headings
-    & + *,
-    & + .aside + *,
-    & + .sidenote + * { margin-top: -0.5 * $hspacing; }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+
+    // reduce spacing after headings
+    &+*,
+    &+.aside+*,
+    &+.sidenote+* {
+      margin-top: -0.5 * $hspacing;
+    }
   }
 
 }
@@ -114,7 +150,8 @@ article {
   margin-top: -$post-header-spacing + $spacing-unit;
 }
 
-.post-footer, #disqus_thread {
+.post-footer,
+#disqus_thread {
   margin-top: $post-footer-spacing;
   margin-bottom: $post-footer-spacing;
 }
@@ -180,14 +217,42 @@ article {
   bottom: 0;
   right: 0;
   margin: 4px 8px;
-  p { margin: 0; padding: 0; }
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
 }
 
-
-@media screen and (min-width: 1200px){
-  .post-content p img {
-    width: 1024px;
-    max-width: 1024px;
-    margin-left: -192px;
+@media screen and (max-width: 1200px) {
+  img[alt$="-halfwidth"] {
+    width: 60%;
+    display: block;
+    margin: 20px auto;
   }
+}
+
+@media screen and (min-width: 1200px) {
+  .post-content p {
+    display: block;
+
+    img {
+      flex: 1;
+      max-width: 1024px;
+      width: 1024px;
+      margin-left: -192px;
+
+      &[alt$="-halfwidth"] {
+        width: 500px !important;
+
+        &:last-child {
+          right: -210px;
+          position: relative;
+
+        }
+      }
+    }
+  }
+
+
 }
