@@ -18,8 +18,7 @@ lang: zh-Hans
 email: zework@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ze's blog.
-baseurl: "/blog" 
-# the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "http://zezechen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 color_scheme: github
