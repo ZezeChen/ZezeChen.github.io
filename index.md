@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ze's Blog
+title: 
 cover_url: 
 
 ---
