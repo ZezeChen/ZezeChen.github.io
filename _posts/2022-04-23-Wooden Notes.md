@@ -3,7 +3,7 @@ layout : post
 pid : 39
 title: "Wooden Notes"
 date: 2022-04-23 20:00:00 +0800
-cover_url: http://www.coachwooden.com/img/uploads/first_slider.png
+cover_url: http://www.coachwooden.com/img/temp_memory.jpg
 category: Life
 
 ---
