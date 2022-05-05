@@ -11,11 +11,16 @@ category: Life
 
 Success is peace of mind that is a direct result of self-satisfaction in knowing you did your best to become the best you are capable of becoming.
 
+Don't measure yourself by what you've accomplished, but rather by what you should have accomplished with your abilities.
+
+Think only of the best, to work noly for the best, and to expect only the best in yourself and others.
+
+What is competitive greatness? It's being at your best when your best is needed. It's enjoying the challenge when things become difficult, even very difficult. True competitors know it's exhilarating to be involved in something that's very challenging. They don't fear it. They seek it. 
+
+Skill means being able to execute all of your job, not just part of it.
 I am just a common man who is true to his beliefs.
 
 There is nothing sronger than gentleness.
-
-Make good manners an automatic reaction.
 
 Try not to be a man of success but rather try to become a man of value.
 
@@ -29,15 +34,7 @@ It's the perfection of the smallest details that make big things happen. Big thi
 
 The doer makes mistakes. Mistakes come from doing, but so does success. The individual who is mistake-free is also probably sitting around doing nothing. And that's a very big mistake.
 
-Think only of the best, to work noly for the best, and to expect only the best in yourself and others.
-
-Don't measure yourself by what you've accomplished, but rather by what you should have accomplished with your abilities.
-
 There is a choice you have to make, in everything you do. And you must always keep in mind the choice you make, makes you.
-
-Skill means being able to execute all of your job, not just part of it.
-
-What is competitive greatness? It's being at your best when your best is needed. It's enjoying the challenge when things become difficult, even very difficult. True competitors know it's exhilarating to be involved in something that's very challenging. They don't fear it. They seek it. 
 
 If you dot have the time to do it right, when will you find the time to do it over?
 
