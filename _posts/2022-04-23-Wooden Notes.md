@@ -18,6 +18,7 @@ Think only of the best, to work noly for the best, and to expect only the best i
 What is competitive greatness? It's being at your best when your best is needed. It's enjoying the challenge when things become difficult, even very difficult. True competitors know it's exhilarating to be involved in something that's very challenging. They don't fear it. They seek it. 
 
 Skill means being able to execute all of your job, not just part of it.
+
 I am just a common man who is true to his beliefs.
 
 There is nothing sronger than gentleness.
