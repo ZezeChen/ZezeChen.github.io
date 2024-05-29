@@ -1,11 +1,11 @@
 ---
 layout: post-list
-title: Math
+title: Article
 lang: zh-Hans
 cover_url: 
 position: 1
 navlevel: header
-navtitle: Math
+navtitle: Article
 filter:
-  - by_category: Math
+  - by_category: Article
 ---
