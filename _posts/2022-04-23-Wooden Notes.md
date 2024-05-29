@@ -3,8 +3,8 @@ layout : post
 pid : 39
 title: "Wooden Notes"
 date: 2022-04-23 20:00:00 +0800
-cover_url: http://www.coachwooden.com/img/temp_memory.jpg
-category: Life
+cover_url: 
+category: Article
 
 ---
 
