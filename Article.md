@@ -3,7 +3,7 @@ layout: post-list
 title: Article
 lang: zh-Hans
 cover_url: 
-position: 1
+position: 5
 navlevel: header
 navtitle: Article
 filter:
